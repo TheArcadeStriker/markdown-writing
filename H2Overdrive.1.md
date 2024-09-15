@@ -34,15 +34,13 @@ Boosters in all three games are in blue and red variety, blue pickups giving you
 
 While explaining how the boosters you choose to pick can influence the lines you take on the race [beyond the fact that if you are clearly aiming at one and miss it, you're screwed], there's a THIRD booster pickup exclusive to H2Overdrive: The **Super Boost**.
 
-This is a yellow pickup, either at plain sight in an alternate path or hiding behind a well-timed jump or shortcut, these don't add more seconds to you that temporarily grants access to a Super bBoost gauge, but instead temporarily grants you a superpowered boost that ny normal boost you had before ywill last as long as you don't use it up entirely.
+This is a yellow pickup that grants its own boost gauge until its depleted, and the titular Super Boost is very fast-acting, as well as being
 
-until you deplete it.
+The Super Boost gauge usually depletes **way** faster than a full Boost Gauge despite looking the same, can only be refueled with another Super Boost pickup, and once you use it up, you're back to the normal boost.
 
-...Except that the Super Boost gauge usually depletes **way** faster than a full Boost Gauge despite looking the game, can only be refueled with another Super Boost pickup, and once you use it up, you're back to the normal boost.
+Although any boosts you pick up while its active, as well as any you had before taking a Super Boost, will stay stored for when you run out of it.
 
-although. ing it up, as well as any pickups you grab while its active, will stay stored for when you run out of Super Boost.
-
-However, there's a very good reason for the Super Boost to be rare and much faster to waste if reckless. The boost itself is very fast-acting and goes faster than the normal boost, obviously...but its when you use it mid-air when you notice how broken it can be.
+However, there's a very good reason for the Super Boost to be rare and much faster to waste if reckless. , obviously...but its when you use it mid-air when you notice how broken it can be.
 
 A quirk that's kept from the original is that any speed you gained before going mid-air, or are gaining mid-air through boosters, will stay stored until you land or hit something on the way down. It's one reason why it can be effective to boost into a jump, then as long as a straight allows you to, keep chaining jumps to keep that speed while wasting less boost than just holding it down the whole straight.
 
@@ -52,5 +50,5 @@ So if you use the Super Boost briefly mid-air, you can save on the boost itself 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyNTY2MTc4XX0=
+eyJoaXN0b3J5IjpbLTIwNjExNzUzNjZdfQ==
 -->
