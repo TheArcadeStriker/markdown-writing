@@ -34,21 +34,21 @@ Boosters in all three games are in blue and red variety, blue pickups giving you
 
 While explaining how the boosters you choose to pick can influence the lines you take on the race [beyond the fact that if you are clearly aiming at one and miss it, you're screwed], there's a THIRD booster pickup exclusive to H2Overdrive: The **Super Boost**.
 
-This is a yellow pickup that grants its own boost gauge until its depleted, and the titular Super Boost is very fast-acting, as well as being
+This is a yellow pickup that grants its own boost gauge until its depleted, and the titular Super Boost is very fast-acting, as well as being faster than any other boost.
 
 The Super Boost gauge usually depletes **way** faster than a full Boost Gauge despite looking the same, can only be refueled with another Super Boost pickup, and once you use it up, you're back to the normal boost.
 
 Although any boosts you pick up while its active, as well as any you had before taking a Super Boost, will stay stored for when you run out of it.
 
-However, there's a very good reason for the Super Boost to be rare and much faster to waste if reckless. , obviously...but its when you use it mid-air when you notice how broken it can be.
+However, there's a very good reason for the Super Boost to be rare and much faster to waste if reckless.
 
 A quirk that's kept from the original is that any speed you gained before going mid-air, or are gaining mid-air through boosters, will stay stored until you land or hit something on the way down. It's one reason why it can be effective to boost into a jump, then as long as a straight allows you to, keep chaining jumps to keep that speed while wasting less boost than just holding it down the whole straight.
 
-So if you use the Super Boost briefly mid-air, you can save on the boost itself while *gaining its speed increase for way longer as long as you are mid-air.* 
+So if you use the Super Boost briefly mid-air, you can save on the boost itself while *gaining its speed increase for way longer as long as you are mid-air* thanks to how insanely strong it is to just use it a bit in that scenario.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjExNzUzNjZdfQ==
+eyJoaXN0b3J5IjpbMjU1NzQxNDA2XX0=
 -->
