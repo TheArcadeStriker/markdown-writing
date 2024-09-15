@@ -34,13 +34,13 @@ Boosters in all three games are in blue and red variety, blue pickups giving you
 
 While explaining how the boosters you choose to pick can influence the lines you take on the race [beyond the fact that if you are clearly aiming at one and miss it, you're screwed], there's a THIRD booster pickup exclusive to H2Overdrive: The **Super Boost**.
 
-Visible aThis is a yellow pickup, either at plain sight in an alternate path or hiding behind a well-timed jump or shortcut, these don't add more seconds to you that temporarily grants access to a Super bBoost gauge, but instead temporarily grants you a superpowered boost that will last as long as you don't use it up entirely.
+This is a yellow pickup, either at plain sight in an alternate path or hiding behind a well-timed jump or shortcut, these don't add more seconds to you that temporarily grants access to a Super bBoost gauge, but instead temporarily grants you a superpowered boost that ny normal boost you had before ywill last as long as you don't use it up entirely.
 
-...Except that the Super Boost gauge usually until you deplete it. 
+until you deplete it.
 
-It depletes **way** faster than a full Boost Gauge despite looking the game, can only be refueled with another Super Boost pickup, and once you use it up, you're back to the normal boost, although.
+...Except that the Super Boost gauge usually depletes **way** faster than a full Boost Gauge despite looking the game, can only be refueled with another Super Boost pickup, and once you use it up, you're back to the normal boost.
 
-The upside is that any normal boost you had before you'll keep the boost gauge you had before the pickup [as well as still get normal boost stored if you grab normal pickups while you have the Super Boost active].
+although. ing it up, as well as any pickups you grab while its active, will stay stored for when you run out of Super Boost.
 
 However, there's a very good reason for the Super Boost to be rare and much faster to waste if reckless. The boost itself is very fast-acting and goes faster than the normal boost, obviously...but its when you use it mid-air when you notice how broken it can be.
 
@@ -48,9 +48,9 @@ A quirk that's kept from the original is that any speed you gained before going 
 
 So if you use the Super Boost briefly mid-air, you can save on the boost itself while *gaining its speed increase for way longer as long as you are mid-air.* 
 
-There's a track in this game named Temple of Flume that has a chance for an easy Super Boost pickup, and later on, a less easy but still not too difficult chance to pick ANOTHER one...and in both cases you're going into long straights with enough vertical space to jump.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTYyMTI5MzIsOTU2ODA0MjUzXX0=
+eyJoaXN0b3J5IjpbMjYyNTY2MTc4LDk1NjgwNDI1M119
 -->
